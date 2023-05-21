@@ -41,9 +41,7 @@ We can encrypt and decrypt any type of file using this tool.
 2. termcolor module is required.
 3. tqdm module is also required.
 
-### Disclaimer:
 
-Please read the license information carefully before using it commercially.
 
 
 
